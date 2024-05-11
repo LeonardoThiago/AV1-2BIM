@@ -20,7 +20,7 @@ const questions = [
         correctAnswer: 24
     },
     {
-        question: "Qual é o Próximo Nome? : Samuel, André, Nicolas, Samanta", //Primeira Letra Do Nome
+        question: "Qual é o Próximo Nome? : Samuel, André, Nicolas, Samanta, ____", //Primeira Letra Do Nome
         options: ["Sans", "Carl", "Levi", "Eric"],
         correctAnswer: "Sans"
     },
